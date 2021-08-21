@@ -1,0 +1,13 @@
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.csproj.AssemblyReference.cache
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.AssemblyInfoInputs.cache
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.AssemblyInfo.cs
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.csproj.CoreCompileInputs.cache
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\bin\Debug\netcoreapp3.1\practicando1.exe
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\bin\Debug\netcoreapp3.1\practicando1.deps.json
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\bin\Debug\netcoreapp3.1\practicando1.runtimeconfig.json
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\bin\Debug\netcoreapp3.1\practicando1.runtimeconfig.dev.json
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\bin\Debug\netcoreapp3.1\practicando1.dll
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\bin\Debug\netcoreapp3.1\practicando1.pdb
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.dll
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.pdb
+C:\Users\GALLO MAS GALLO\Desktop\practicando\practicando1\practicando1\obj\Debug\netcoreapp3.1\practicando1.genruntimeconfig.cache
